@@ -34,7 +34,7 @@ export class AppComponent {
       this.status = '';
       this.userSelected = '';
       this.compSelected = '';
-    }, 1500);
+    }, 2500);
   }
 
   win(user: string, comp: string) {
